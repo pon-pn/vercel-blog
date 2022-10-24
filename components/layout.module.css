@@ -1,0 +1,22 @@
+.headCont {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.headTtl {
+  font-size: 1.6rem;
+  margin-top: 5px;
+}
+
+.headIcon {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.headHomeImg {
+  width: 8rem;
+  height: 8rem;
+}
